@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryaAlamzeb
 - 👀 I’m interested in programmming, project management
-- 🌱 I’m currently learning dot net development
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate on web applications and Artificail Intelligence.
 - 📫 Reach me at https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit
 
