@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MaryaAlamzeb
-- 👀 I’m interested in programmming, project management
-- 🌱 I’m  Java Spring Boot Developer
-- 💞️ I’m looking to collaborate on web applications and Artificail Intelligence.
-- 📫 Reach me at https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit
+# 👋 Hi, I’m Marya Alamzeb  
 
-<!---
-MaryaAlamzeb/MaryaAlamzeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Passionate about **programming** and **project management**  
+- 🌱 Skilled **Java Spring Boot Developer** and **Business Analyst**  
+- 💞️ Open to collaborating on **web applications** and **Artificial Intelligence projects**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)  
+
+---
+
+✨ This repository is special because it’s my GitHub profile — feel free to explore my projects and contributions!
