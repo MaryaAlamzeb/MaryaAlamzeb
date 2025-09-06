@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Marya Alamzeb  
 
-- 👀 Passionate about **programming** and **project management**  
+- 👀 Passionate about **programming** and **data analysis**  
 - 🌱 Skilled **Java Spring Boot Developer** and **Business Analyst**  
 - 💞️ Open to collaborating on **web applications** and **Artificial Intelligence projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)  
